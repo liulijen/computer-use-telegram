@@ -1,0 +1,5 @@
+anthropic[bedrock,vertex]>=0.37.1
+python-telegram-bot>=20.8
+jsonschema==4.22.0
+boto3>=1.28.57
+google-auth<3,>=2
